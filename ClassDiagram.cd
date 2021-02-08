@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebAPI.Controllers.CartsController">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAAAAAABAAAAAAAAFAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CartsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Controllers.ShoppingDetailsController">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAQQAAEAAAAACAAAAAAAAACIAAAAA=</HashCode>
+      <FileName>Controllers\ShoppingDetailsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Migrations.InitialMigration">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20200615125744_InitialMigration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Migrations.SecondMigration">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20200621171931_SecondMigration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Migrations.ThirdMigration">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20200623212620_ThirdMigration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Migrations.ShoppingCartContextModelSnapshot">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Migrations\ShoppingCartContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Models.Cart">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Cart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Models.ShoppingCartContext">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ShoppingCartContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Models.ShoppingDetail">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGQAAAAQAgAgAAAAAACAAAAAAAQAACAAAAgAAACAA=</HashCode>
+      <FileName>Models\ShoppingDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Models.Category">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAEAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ShoppingDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Program">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAPI.Startup">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
